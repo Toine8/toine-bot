@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: 'TOKEN',
         prefix: '!',
-        activity: 'Ne fait rien',
+        activity: 'Bot par Toine',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
